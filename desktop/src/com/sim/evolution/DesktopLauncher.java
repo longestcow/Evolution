@@ -11,7 +11,7 @@ public class DesktopLauncher {
 		config.setWindowedMode(800, 800);
 	    config.useVsync(true);
 	    config.setForegroundFPS(60);
-		config.setTitle("Mirror Reflection");
+		config.setTitle("Evolution");
 		new Lwjgl3Application(new Evolution(), config);
 	}
 }
