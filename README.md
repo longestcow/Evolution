@@ -1,5 +1,5 @@
 # Evolution
-Evolution Simulation
+Evolution Simulation  
 Use space to check current survivors (cells in a safe box) and go to next generation of cells.  
 Pressing r clears the current generation, allowing you to start a new fresh generation of cells using space.  
 Use 1-9 and the 4 arrow keys to switch the safe box areas.  
